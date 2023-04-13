@@ -9,67 +9,19 @@
   ],
   "creatorBuild" : "34472",
   "files" : {
+    "\/.gitignore_global" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/.gitignore_global",
+      "oF" : 1
+    },
     "\/.vscode" : {
       "ft" : 65536,
       "oA" : 1,
       "oAP" : "\/.vscode",
       "oF" : 0
-    },
-    "\/100-Days-of-Code.code-workspace" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/100-Days-of-Code.code-workspace",
-      "oF" : 0
-    },
-    "\/css\/styles-min.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/css\/styles-min-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/css\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/css\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/image\/html-css.png" : {
-      "ft" : 32768,
-      "iS" : 133633,
-      "oA" : 0,
-      "oAP" : "\/image\/html-css.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-lossless",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/image\/html-css.webp" : {
-      "ft" : 8388608,
-      "iS" : 31378,
-      "oA" : 0,
-      "oAP" : "\/image\/html-css.webp",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
     },
     "\/index.html" : {
       "cB" : 0,
@@ -85,19 +37,23 @@
       "oAP" : "\/Older_Lessons",
       "oF" : 0
     },
-    "\/PDF\/html-css-basics-summary.pdf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/PDF\/html-css-basics-summary.pdf",
-      "oF" : 0
-    },
     "\/resources" : {
       "ft" : 65536,
       "oA" : 1,
       "oAP" : "\/resources",
       "oF" : 0
+    },
+    "\/styles\/styles.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/styles\/styles-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/workspace.code-workspace" : {
       "cB" : 0,
