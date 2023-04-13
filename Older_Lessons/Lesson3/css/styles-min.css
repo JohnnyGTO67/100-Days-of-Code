@@ -1,0 +1,82 @@
+body {
+  background-color: hsl(267, 100%, 96%);
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-size: 52px;
+  color: hsl(259, 65%, 57%);
+}
+
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+header img {
+  width: 300px;
+}
+
+main {
+  background-color: hsl(259, 65%, 57%);
+  padding: 32px;
+  width: 700px;
+  margin: 32px auto;
+  border-radius: 8px;
+  color: hsl(240, 33%, 87%);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 14px 0;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+a {
+  text-decoration: none;
+  color: hsl(268, 95%, 15%);
+  background-color: hsl(51, 94%, 84%);
+  border-radius: 3px;
+  padding: 3px 6px;
+}
+
+a:hover,
+a:active {
+  background-color: hsl(46, 95%, 57%);
+}
+
+footer {
+  text-align: center;
+}
+
+footer p {
+  color: hsl(259, 65%, 57%);
+  margin-top: 30px;
+}
+
+footer a {
+  padding: 12px 20px;
+  border-radius: 8px;
+  background-color: hsl(46, 95%, 57%);
+  color: hsl(268, 95%, 15%);
+}
+
+footer a:hover,
+footer a:active {
+  background-color: hsl(46, 95%, 45%);
+}
+
+.extra-important {
+  color: hsl(46, 95%, 57%);
+  border-color: hsl(46, 95%, 57%);
+}
+
+.highlight {
+  font-weight: 900;
+}

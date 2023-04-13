@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "html.format.wrapAttributes": "force-aligned",
+    "cSpell.words": ["preconnect"],
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace"
+  }
+}

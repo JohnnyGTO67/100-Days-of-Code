@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: hsl(267, 100%, 96%);
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+}
+a {
+  text-decoration: none;
+}
