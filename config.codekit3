@@ -37,11 +37,43 @@
       "oAP" : "\/Older_Lessons",
       "oF" : 0
     },
+    "\/places.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/places.html",
+      "oF" : 0
+    },
     "\/resources" : {
       "ft" : 65536,
       "oA" : 1,
       "oAP" : "\/resources",
       "oF" : 0
+    },
+    "\/styles\/shared-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/styles\/shared-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/styles\/shared.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/styles\/shared-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/styles\/styles.css" : {
       "aP" : 1,
